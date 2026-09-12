@@ -1,3 +1,3 @@
-# Exploring IA
-A repository for exploring the AI for beginners 
-
+# Explorando IA
+Um repositório para explorar a IA para iniciantes 
+Conceitos e falas apresentadas são apenas teorias e analogias!
